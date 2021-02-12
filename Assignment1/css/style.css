@@ -1,0 +1,85 @@
+body{
+	background-color: #222;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+.main img{
+	position: relative;
+	left: 35%;
+	border-radius: 50%
+}
+
+main{
+    width: 80%;
+    margin:auto;
+    padding-top:50px;
+    padding-bottom: 50px;
+}
+
+.sales_representative{
+    width:200px;
+    height:150px;
+}
+
+form{
+    margin-top:30px;
+    width:500px;
+    margin-left:auto;
+    margin-right: auto;
+}
+label{
+    font-weight: bold;
+}
+
+input[type=text], input[type=email], input[type=tel]{
+    width:400px;
+}
+input, select{
+    margin-top:10px;
+    margin-left:10px;
+    margin-bottom: 30px;
+}
+
+#submit{
+    margin-top:30px;
+    padding:10px;
+    background-color: green;
+    color:white;
+    cursor: pointer;
+}
+
+table{
+    margin:auto;
+    margin-top:50px;
+}
+
+tr, td, th{
+    border: 2px solid black;
+    padding:10px;
+}
+
+td div{
+    height:30px;
+}
+
+#c1{
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:rgb(9, 168, 168);
+    color:white;
+}
+
+header{
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    background-color: rgb(9, 168, 168);
+    color:white;
+    font-weight: bold;;
+}
